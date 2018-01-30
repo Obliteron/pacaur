@@ -477,6 +477,8 @@ B<[pl] - Polski> - Tomasz "Ludvick" Niedzielski
 
 B<[pt] - Português> - Thiago "thiagowfx" Barroso Perrotta, Rafael "rccavalcanti" Cavalcanti
 
+B<[pt_BR] - Português brasileiro> - Gabriel Henrique "Obliteron"
+
 B<[ru] - Русский> - "kyak"
 
 B<[sk] - Slovenčina> - Pavol "pakapusta" Kapusta, Juraj "DoctorJellyface" Fiala
