@@ -475,9 +475,9 @@ B<[nl] - Nederlands> - "Yoshi2889", Willem "14mRh4X0r" Mulder
 
 B<[pl] - Polski> - Tomasz "Ludvick" Niedzielski
 
-B<[pt] - Português> - Thiago "thiagowfx" Barroso Perrotta, Rafael "rccavalcanti" Cavalcanti
+B<[pt] - Portuguese> - Thiago "thiagowfx" Barroso Perrotta, Rafael "rccavalcanti" Cavalcanti
 
-B<[pt_BR] - Português brasileiro> - Gabriel Henrique "Obliteron"
+B<[pt_BR] - Brazilian portuguese> - "Obliteron"
 
 B<[ru] - Русский> - "kyak"
 
